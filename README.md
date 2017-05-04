@@ -13,12 +13,12 @@
 输出：分类
 
 
-##feature ##
+##feature
 输入、mfcc算法、pca算法、人名标记对应表
 
-##gmm ##
+##gmm
 一种gmm方法
 
-##nn ##
+##nn
 BP神经网络
 
