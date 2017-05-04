@@ -1,4 +1,4 @@
-# bistu\_speech_recognition
+# bistu\_speech\_recognition
 
 孤立词识别神经网络
 
