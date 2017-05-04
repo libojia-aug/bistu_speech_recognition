@@ -11,12 +11,15 @@
 三，BPNN训练
 
 输出：分类
+
 ##feature
 
 输入、mfcc算法、pca算法、人名标记对应表
+
 ##gmm
 
 一种gmm方法
+
 ##nn
 
 BP神经网络
