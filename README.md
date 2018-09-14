@@ -1,6 +1,6 @@
 bistu\_speech\_recognition
 ===================================
-
+Isolated word recognition neural network
 孤立词识别神经网络
 
 输入：.wav音频文件
